@@ -110,12 +110,6 @@ Mobile-first CRO landing page with **100% campaign-to-lead attribution**.
 ---
 
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ismailgito&theme=tokyonight&hide_border=true&ring=1B4F72&fire=FF6B35&currStreakLabel=1B4F72)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 📬 Let's Connect
