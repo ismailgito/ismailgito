@@ -109,14 +109,6 @@ Mobile-first CRO landing page with **100% campaign-to-lead attribution**.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ismailgito&show_icons=true&theme=tokyonight&hide_border=true&title_color=1B4F72&icon_color=1B4F72&text_color=ffffff&bg_color=0d1117&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailgito&layout=compact&theme=tokyonight&hide_border=true&title_color=1B4F72&text_color=ffffff&bg_color=0d1117&langs_count=6" />
-
-</div>
 
 <div align="center">
 
