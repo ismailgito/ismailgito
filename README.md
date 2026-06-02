@@ -66,7 +66,7 @@ Built a web app that converts raw files into **LLM-optimized Markdown**, slashin
 
 ---
 
-### 📊 [Marketing Attribution Dashboard](https://github.com/ismailgito)
+### 📊 [Marketing Attribution Dashboard](https://multi-channel-attribution-tracker.netlify.app/)
 > `Next.js` `React` `Data Visualization` `GA4` `Multi-Touch Attribution`
 
 Consolidated **$1.2M+ ad spend** across 5 channels into a single source of truth.
@@ -81,7 +81,7 @@ Consolidated **$1.2M+ ad spend** across 5 channels into a single source of truth
 
 ---
 
-### 🎯 [Responsive Landing Page — GTM & GA4 Integration](https://github.com/ismailgito)
+### 🎯 [Responsive Landing Page — GTM & GA4 Integration](https://landing-page-krwi9m05v-gearup4.vercel.app/?utm_source=google&utm_medium=ctr)
 > `HTML5` `CSS3` `JavaScript` `GTM` `GA4` `Lighthouse`
 
 Mobile-first CRO landing page with **100% campaign-to-lead attribution**.
