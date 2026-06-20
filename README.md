@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF5722&height=160&section=header&text=Mohamed%20Ismail&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Performance%20Marketer%20%7C%20Builder%20%7C%20Data-Driven%20Growth&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=160&section=header&text=Mohamed%20Ismail&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Performance%20Marketer%20%7C%20Builder%20%7C%20Data-Driven%20Growth&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8494FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Turning+ad+spend+into+measurable+ROAS+%F0%9F%9A%80;Building+tools+that+make+marketers+faster+%E2%9A%A1;GA4+%7C+GTM+%7C+Multi-Touch+Attribution+%7C+CRO" alt="Typing SVG" />
@@ -129,6 +129,6 @@ Mobile-first CRO landing page with **100% campaign-to-lead attribution**.
 
 <sub>💡 <i>Open to Performance Marketing, Growth, and Marketing Operations roles — Immediate availability</i></sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF5722&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=80&section=footer" />
 
 </div>
