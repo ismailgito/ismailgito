@@ -20,7 +20,7 @@
 
 <div align="center">
 
-### 📊 The Numbers That Matter (This is Mock Data not Real)
+📊 The Numbers That Matter (This is Mock Data not Real)
 
 ![Ad Spend Managed](https://img.shields.io/badge/Ad%20Spend%20Managed-%241.2M%2B-0B1D33?style=for-the-badge)
 ![Peak ROAS](https://img.shields.io/badge/Peak%20ROAS-6.1x-00C2A8?style=for-the-badge)
@@ -31,7 +31,7 @@
 
 ---
 
-## 🔝 TOFU · About Me
+🔝 TOFU · About Me
 
 ```yaml
 name       : Mohamed Ismail
@@ -49,29 +49,29 @@ portfolio  : mohamedismail784.netlify.app
 
 ---
 
-## 🎯 MOFU · Tools & Stack
+🎯 MOFU · Tools & Stack
 
-**📊 Performance Marketing**
+📊 Performance Marketing**
 
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
 
-**📈 Analytics & Tracking**
+📈 Analytics & Tracking**
 
 ![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
 ![Meta Pixel](https://img.shields.io/badge/Meta%20Pixel-1877F2?style=for-the-badge&logo=meta&logoColor=white)
 
-**🤖 Automation & AI Workflows**
+🤖 Automation & AI Workflows**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-**💻 Web & Engineering**
+💻 Web & Engineering**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -83,9 +83,9 @@ portfolio  : mohamedismail784.netlify.app
 
 ---
 
-## 💰 BOFU · Projects & Proof of Work
+💰 BOFU · Projects & Proof of Work
 
-### 🤖 [AI-Powered Job Application Automation](https://github.com/ismailgito/Job_hunting_workflow_automation_N8N)
+🤖 [AI-Powered Job Application Automation](https://github.com/ismailgito/Job_hunting_workflow_automation_N8N)
 > `n8n` `Gemini AI` `Apify` `Telegram Bot API` `Google Sheets` `Google Drive`
 
 A self-hosted **n8n** pipeline that runs my job search end-to-end — built the way I build campaign infrastructure: instrumented, automated, and self-reporting.
@@ -103,7 +103,7 @@ A self-hosted **n8n** pipeline that runs my job search end-to-end — built the 
 
 ---
 
-### ⚡ [Token Optimizer — LLM File Processing Tool](https://claude-token-optimization.vercel.app/)
+⚡ [Token Optimizer — LLM File Processing Tool](https://claude-token-optimization.vercel.app/)
 > `Next.js` `React` `Vercel` `Markdown Processing` `LLM API Integration`
 
 Converts raw files into LLM-optimized Markdown, cutting token consumption and AI API costs.
@@ -118,8 +118,7 @@ Converts raw files into LLM-optimized Markdown, cutting token consumption and AI
 </details>
 
 ---
-
-### 📊 [Marketing Attribution Dashboard](https://multi-channel-attribution-tracker.netlify.app/)
+📊 [Marketing Attribution Dashboard](https://multi-channel-attribution-tracker.netlify.app/)
 > `Next.js` `React` `Data Visualization` `GA4` `Multi-Touch Attribution`
 
 Consolidated **$1.2M+ ad spend** across 5 channels into a single source of truth.
@@ -154,7 +153,7 @@ Mobile-first CRO landing page with 100% campaign-to-lead attribution.
 </details>
 
 ---
-## 🔁 Retention · Certifications
+🔁 Retention · Certifications
 
 > 🆕 **Just certified:** *n8n — Essentials: Your First Workflows* (Jul 25, 2026), awarded by n8n's Education Team — put straight to work in the automation project above.
 
@@ -174,7 +173,7 @@ Mobile-first CRO landing page with 100% campaign-to-lead attribution.
 
 ---
 
-## 📣 CTA · Let's Connect
+Let's Connect
 
 <div align="center">
 
