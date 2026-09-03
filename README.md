@@ -1,211 +1,229 @@
+<!-- ═══════════════════════ ANIMATED HEADER BANNER ═══════════════════════ -->
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" alt="Mohamed Ismail — Performance Marketer and Growth Automation Engineer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D33,100:FFBF00&height=180&section=header&text=Mohamed%20Ismail&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Performance%20Marketer%20%C2%B7%20Growth%20Automation%20Engineer&descAlignY=54&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Mohamed%20Ismail&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Performance%20Marketing%20%7C%20Analytics%20%7C%20CRO&descSize=20&descAlignY=58" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<img alt="Typing animation of Mohamed's marketing and automation focus areas" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=00C2A8&center=true&vCenter=true&multiline=true&width=780&height=90&lines=Turning+ad+spend+into+measurable+ROAS+%F0%9F%9A%80;Building+automations+that+make+marketers+faster+%E2%9A%A1;GA4+%C2%B7+GTM+%C2%B7+n8n+%C2%B7+Attribution+%C2%B7+CRO" />
-
-<!-- PIXEL-STYLE MARKETING TICKER -->
-<img alt="Pixel-style animated marketing metrics ticker" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2200&pause=700&color=FFBF00&center=true&vCenter=true&width=780&height=40&lines=%241.2M+SPEND+%E2%96%B8+6.1X+ROAS+%E2%96%B8+95%25+FASTER" />
+<!-- ═══════════════════════ ANIMATED TYPING INTRO ═══════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=764BA2&center=true&vCenter=true&width=650&lines=Performance+Marketing+Professional+%F0%9F%9A%80;Analysed+%241.2M%2B+in+Multi-Channel+Ad+Spend+%F0%9F%93%8A;6.1x+ROAS+Channel+Identification+%F0%9F%8E%AF;GA4+%E2%80%A2+Meta+Ads+%E2%80%A2+CRO+%E2%80%A2+UTM+Tracking;5x+Certified+Digital+Marketer+%F0%9F%8F%86" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B1D33?style=for-the-badge&logo=vercel&logoColor=white)](https://marketingportfolio7.netlify.app?utm_source=github&utm_medium=clicks&utm_campaign=github)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedismail-2700a2257)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dadobeb553@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismailgito)
+<!-- ═══════════════════════ CONTACT BADGES ═══════════════════════ -->
+<a href="mailto:dadobeb553@gmail.com"><img src="https://img.shields.io/badge/Email-dadobeb553%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-764BA2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/📍_Chennai,_TN-India-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Immediate%20Availability-00C2A8?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=ismailgito&color=FFBF00&style=for-the-badge&label=Profile%20Views)
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-📊 The Numbers That Matter (This is Mock Data not Real)
-
-![Ad Spend Managed](https://img.shields.io/badge/Ad%20Spend%20Managed-%241.2M%2B-0B1D33?style=for-the-badge)
-![Peak ROAS](https://img.shields.io/badge/Peak%20ROAS-6.1x-00C2A8?style=for-the-badge)
-![Load Time Cut](https://img.shields.io/badge/Load%20Time%20Cut-40%25-FFBF00?style=for-the-badge)
-![Reporting Time Cut](https://img.shields.io/badge/Reporting%20Time%20Cut-95%25-0B1D33?style=for-the-badge)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
-<div align="center">
-<img width="100%" alt="Animated section divider for About Me" src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C2A8,100:FFBF00&height=60&section=header&text=TOFU%20%C2%B7%20ABOUT%20ME&fontSize=22&fontColor=0B1D33&fontAlignY=65&animation=fadeIn" />
-</div>
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> About Me
 
-🔝 TOFU · About Me
+> **Performance marketing professional** who turns ad spend into insight — and insight into growth.
 
 ```yaml
-name       : Mohamed Ismail
-location   : Chennai, Tamil Nadu, India
-role       : Performance Marketer + Growth Automation Engineer
-status     : Open to Full-Time Roles · Immediate Availability
-focus      : Paid Media · CRO · Attribution · n8n & AI-Powered Marketing Automation
-portfolio  : mohamedismail784.netlify.app
+name: Mohamed Ismail
+role: Performance Marketing | SaaS Product Marketing
+location: Chennai, Tamil Nadu, India 🇮🇳
+education: BBA — The New College, University of Madras (2020–2024)
+languages: [English, Tamil]
+availability: Immediate ⚡
+currently_seeking: Junior Performance Marketing roles (D2C / SaaS growth)
+fun_fact: "Cut manual reporting time from 8 hours → 5 minutes 🤯"
 ```
 
-> I sit where **marketing strategy** meets **engineering**.
-> I don't just run campaigns — I build the dashboards, tracking systems, and automations that make those campaigns measurable, scalable, and self-reporting.
->
-> Right now, I'm even running my own job search through a self-hosted **n8n** pipeline — scroll to Projects to see it work. 👇
-
 <div align="center">
-<img width="100%" alt="Animated section divider for Tools and Stack" src="https://capsule-render.vercel.app/api?type=transparent&color=0:0B1D33,100:00C2A8&height=60&section=header&text=MOFU%20%C2%B7%20TOOLS%20%26%20STACK&fontSize=22&fontColor=FFBF00&fontAlignY=65&animation=fadeIn" />
+
+| 💰 **$1.2M+** | 🎯 **6.1x** | 📊 **50+** | ⚡ **40%** | 🏆 **5x** |
+|:---:|:---:|:---:|:---:|:---:|
+| Ad Spend Analysed | Highest ROAS Identified | Campaigns UTM-Standardised | Page Load Speed Boost | Certified Marketer |
+
 </div>
 
-🎯 MOFU · Tools & Stack
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
-📊 Performance Marketing**
+<!-- ═══════════════════════ SKILLS ═══════════════════════ -->
+## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="35"> Skill Arsenal
 
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+<details open>
+<summary><b>💸 Paid Advertising</b></summary>
+<br/>
+
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads_Manager-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![ROAS](https://img.shields.io/badge/ROAS_Optimisation-00C853?style=for-the-badge)
+![Funnel](https://img.shields.io/badge/Funnel_Strategy-FF6B35?style=for-the-badge)
+![Budget](https://img.shields.io/badge/Budget_Allocation-764BA2?style=for-the-badge)
+![Bidding](https://img.shields.io/badge/Bid_Management-F7B500?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>📈 Analytics & Tracking</b></summary>
+<br/>
+
+![GA4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Meta Pixel](https://img.shields.io/badge/Meta_Pixel-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![UTM](https://img.shields.io/badge/UTM_Tracking-2E7D32?style=for-the-badge)
+![Attribution](https://img.shields.io/badge/Multi--Touch_Attribution-8E24AA?style=for-the-badge)
+![Dashboards](https://img.shields.io/badge/Performance_Dashboards-D81B60?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>🎯 CRO & Email</b></summary>
+<br/>
+
+![CRO](https://img.shields.io/badge/Landing_Page_Optimisation-FF5722?style=for-the-badge)
+![Checkout UX](https://img.shields.io/badge/Checkout_UX-3F51B5?style=for-the-badge)
+![CWV](https://img.shields.io/badge/Core_Web_Vitals-4CAF50?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Email](https://img.shields.io/badge/Email_Marketing-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Funnel Analysis](https://img.shields.io/badge/Conversion_Funnel_Analysis-009688?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>📱 Social & Content</b></summary>
+<br/>
+
+![Instagram](https://img.shields.io/badge/Instagram_Marketing-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Copywriting](https://img.shields.io/badge/Creative_Copywriting-FF9800?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-673AB7?style=for-the-badge)
+![Segmentation](https://img.shields.io/badge/Audience_Segmentation-00BCD4?style=for-the-badge)
+![Lead Gen](https://img.shields.io/badge/Lead_Generation-8BC34A?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br/>
+
 ![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
-
-📈 Analytics & Tracking**
-
-![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Google Tag Manager](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
-![Meta Pixel](https://img.shields.io/badge/Meta%20Pixel-1877F2?style=for-the-badge&logo=meta&logoColor=white)
-
-🤖 Automation & AI Workflows**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-💻 Web & Engineering**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-<div align="center">
-<img width="100%" alt="Animated section divider for Projects and Proof of Work" src="https://capsule-render.vercel.app/api?type=transparent&color=0:FFBF00,100:0B1D33&height=60&section=header&text=BOFU%20%C2%B7%20PROJECTS%20%26%20PROOF%20OF%20WORK&fontSize=20&fontColor=00C2A8&fontAlignY=65&animation=fadeIn" />
-</div>
-
-💰 BOFU · Projects & Proof of Work
-
-<div align="center">
-<img alt="Pixel-style terminal loading animation before projects" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1800&pause=500&color=0B1D33&center=true&vCenter=true&multiline=true&width=780&height=70&lines=%3E+DEPLOYING+CAMPAIGNS...;%3E+OPTIMIZING+ROAS...;%3E+LOADING+PROJECTS_" />
-</div>
-
-🤖 [AI-Powered Job Application Automation](https://github.com/ismailgito/Job_hunting_workflow_automation_N8N)
-> `n8n` `Gemini AI` `Apify` `Telegram Bot API` `Google Sheets` `Google Drive`
-
-A self-hosted **n8n** pipeline that runs my job search end-to-end — built the way I build campaign infrastructure: instrumented, automated, and self-reporting.
-
-<details>
-<summary>🔍 See the breakdown</summary>
-
-- Scrapes live listings from LinkedIn and JSearch, deduplicated via Apify
-- Auto-tailors my resume per listing using Gemini AI and exports clean PDFs to Google Drive
-- Sends Telegram alerts with one-tap action buttons to approve or skip an application
-- Tracks every application's status (Pending → Submitted / Not Submitted) in a live Google Sheet
-- Companion workflow auto-confirms submissions, closing the loop with zero manual entry
+![Ahrefs](https://img.shields.io/badge/Ahrefs-054ADA?style=for-the-badge&logo=ahrefs&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
-⚡ [Token Optimizer — LLM File Processing Tool](https://claude-token-optimization.vercel.app/)
-> `Next.js` `React` `Vercel` `Markdown Processing` `LLM API Integration`
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35"> Featured Projects
 
-Converts raw files into LLM-optimized Markdown, cutting token consumption and AI API costs.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary>🔍 See the breakdown</summary>
+### 📊 Marketing Attribution Dashboard
+`GA4` `Multi-Touch Attribution` `UTM` `Data Viz`
 
-- Client-side file parsing pipeline with clean Markdown output
-- Real-time token count preview — quantify cost savings before submission
-- Zero-server-cost architecture deployed on Vercel
+<img src="https://img.shields.io/badge/Impact-$2,700_Reallocation_Opportunity-00C853?style=flat-square"/>
 
-</details>
+- 💰 Consolidated **$1.2M+** ad spend across **5 channels** into a unified attribution model
+- 🥇 Identified **SEO as the highest-ROAS channel at 6.1x**
+- 🔍 Uncovered **$1,240 in wasted Meta spend**
+- ⏱️ Automated PDF reporting: **8 hours → 5 minutes**
+- 🧭 Modelled **first-click, last-click & linear** attribution for data-driven budgets
 
----
-📊 [Marketing Attribution Dashboard](https://multi-channel-attribution-tracker.netlify.app/)
-> `Next.js` `React` `Data Visualization` `GA4` `Multi-Touch Attribution`
+</td>
+<td width="50%" valign="top">
 
-Consolidated **$1.2M+ ad spend** across 5 channels into a single source of truth.
+### 🚀 CRO Landing Page (GTM + GA4)
+`Google Tag Manager` `GA4` `Lighthouse` `Core Web Vitals`
 
-<details>
-<summary>🔍 See the breakdown</summary>
+<img src="https://img.shields.io/badge/Impact-100%25_Campaign--to--Lead_Attribution-764BA2?style=flat-square"/>
 
-| Metric | Result |
+- 📱 Built a **mobile-first D2C landing page** with conversion-focused UX
+- 🎯 Achieved **100% campaign-to-lead attribution** via GTM event tracking
+- ⚡ Optimised load speed by **40%**, cut LCP by **~1.6s** → passed Core Web Vitals
+- 🔦 Validated SEO + performance benchmarks with **Lighthouse**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🤖 AI Content Efficiency Tool &nbsp; <a href="https://claude-token-optimization.vercel.app"><img src="https://img.shields.io/badge/🔴_LIVE-Visit_App-FF4444?style=flat-square"/></a>
+`LLM API` `Marketing Automation` `Token Optimisation`
+
+- 🌐 Deployed a web app that converts raw marketing files into **LLM-optimised format** — cutting AI content production costs for marketing teams
+- 👀 Lets marketers **preview token usage before API submission**, directly lowering per-campaign AI spend
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+
+<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32"> Work Experience
+
+### 💼 Sales & Marketing Intern — Ifelse Techsmart Solutions Pvt Ltd
+<img src="https://img.shields.io/badge/Aug_2023_–_Nov_2023-Chennai-blueviolet?style=flat-square"/>
+
+| 🎯 What I did | 📈 Result |
 |---|---|
-| Channels tracked | Google Ads, Meta, SEO, Email, Referral |
-| Attribution models | First-click · Last-click · Linear |
-| Top ROAS channel | SEO at **6.1x** |
-| Wasted spend uncovered | **$1,240** Meta → +$2,700 reallocation impact |
-| Reporting time | 8 hrs → **5 mins** (automated PDF reports) |
+| Planned & executed multi-platform digital campaigns (paid social + targeted messaging) | **+10% customer engagement** |
+| Qualified leads via demographic trend analysis | **+15% lead quality** |
+| Coordinated sales ↔ marketing follow-ups, maintained CRM & client comms | **95% satisfaction rate** |
+| Produced persuasive marketing copy & creative assets | **Improved CTR & reach** |
+| Managed content calendars aligned to product & promo timelines | **On-time campaign rollouts** |
 
-</details>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
----
-
-### 🎯 [Responsive Landing Page — GTM & GA4 Integration](https://landing-page-krwi9m05v-gearup4.vercel.app/?utm_source=google&utm_medium=ctr)
-> `HTML5` `CSS3` `JavaScript` `GTM` `GA4` `Lighthouse`
-
-Mobile-first CRO landing page with 100% campaign-to-lead attribution.
-
-<details>
-<summary>🔍 See the breakdown</summary>
-
-- Load speed cut by 40% · LCP improved by ~1.6s
-- Automated UTM capture — zero attribution gaps
-- GTM event tracking for every conversion touchpoint
-
-</details>
-
-<div align="center">
-<img width="100%" alt="Animated section divider for Certifications" src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C2A8,100:FFBF00&height=60&section=header&text=RETENTION%20%C2%B7%20CERTIFICATIONS&fontSize=22&fontColor=0B1D33&fontAlignY=65&animation=fadeIn" />
-</div>
-
-🔁 Retention · Certifications
-
-> 🆕 **Just certified:** *n8n — Essentials: Your First Workflows* (Jul 25, 2026), awarded by n8n's Education Team — put straight to work in the automation project above.
+<!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="32"> Certifications
 
 <div align="center">
 
-| Certificate | Issuer | Date |
+| 🏅 Certification | 🏛️ Issuer | 📅 Date |
 |---|---|---|
-| ⚙️ Essentials: Your First Workflows | n8n · Education Team | Jul 25, 2026 |
-| 🤖 AI-Powered Marketer | Semrush Academy | 2026 |
-| 📈 Conversion Rate Optimization | CXL Institute | 2026 |
-| 📊 Google Analytics 4 | Google Skillshop | 2026 |
-| 🎯 Performance Marketing | Tute Dude | 2026 |
-| 💼 Digital Marketing | HubSpot Academy | 2026 |
-| 💻 Full Stack Web Development | Udemy | 2025 |
+| 🤖 **AI-Powered Marketer** | Semrush Academy | May 2026 |
+| 🎯 **Conversion Rate Optimisation** | CXL Institute | May 2026 |
+| 📊 **Google Analytics 4** | Google Skillshop | Apr 2026 |
+| 🚀 **Performance Marketing** | Tute Dude | Apr 2026 |
+| 📣 **Digital Marketing** | HubSpot Academy | Apr 2026 |
+| 💻 **Full Stack Web Development** | Udemy | Aug 2025 |
 
 </div>
 
+<!-- ═══════════════════════ EDUCATION ═══════════════════════ -->
+## 🎓 Education
+
+> **Bachelor of Business Administration (BBA)** · 2020 – 2024
+> The New College, University of Madras · Chennai, Tamil Nadu
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+
+<!-- ═══════════════════════ CTA ═══════════════════════ -->
 <div align="center">
-<img width="100%" alt="Animated section divider for Let's Connect" src="https://capsule-render.vercel.app/api?type=transparent&color=0:0B1D33,100:00C2A8&height=60&section=header&text=LET'S%20CONNECT&fontSize=22&fontColor=FFBF00&fontAlignY=65&animation=fadeIn" />
-</div>
 
-Let's Connect
+## 🤝 Let's Build Growth Together
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marketingportfolio7.netlify.app/?utm_source=github&utm_medium=clicks&utm_campaign=github)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedismail-2700a2257)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dadobeb553@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismailgito)
-
-<sub>💡 <i>Open to Performance Marketing, Growth, and Marketing Operations roles — Immediate availability</i></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Available+Immediately+%E2%9A%A1;Open+to+D2C+%26+SaaS+Growth+Roles;Let's+turn+ad+spend+into+revenue+%F0%9F%92%B0" alt="CTA typing"/>
 
 <br/>
 
-<img alt="Pixel-style closing tagline animation" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=00C2A8&center=true&vCenter=true&width=780&height=40&lines=THANKS+FOR+SCROLLING+%E2%9C%A8" />
+<a href="mailto:dadobeb553@gmail.com">
+  <img src="https://img.shields.io/badge/📬_Get_In_Touch-dadobeb553@gmail.com-667eea?style=for-the-badge"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/📞_+91_93842_22784-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
-<img width="100%" alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBF00,100:0B1D33&height=90&section=footer" />
+<br/><br/>
+
+<!-- Visitor counter (activates once hosted on a GitHub profile repo) -->
+<img src="https://komarev.com/ghpvc/?username=mohamed-ismail&style=for-the-badge&color=764BA2&label=PROFILE+VIEWS"/>
+
+<!-- ═══════════════════════ ANIMATED FOOTER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
