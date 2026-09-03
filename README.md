@@ -6,6 +6,9 @@
 <!-- TYPING ANIMATION -->
 <img alt="Typing animation of Mohamed's marketing and automation focus areas" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=00C2A8&center=true&vCenter=true&multiline=true&width=780&height=90&lines=Turning+ad+spend+into+measurable+ROAS+%F0%9F%9A%80;Building+automations+that+make+marketers+faster+%E2%9A%A1;GA4+%C2%B7+GTM+%C2%B7+n8n+%C2%B7+Attribution+%C2%B7+CRO" />
 
+<!-- PIXEL-STYLE MARKETING TICKER -->
+<img alt="Pixel-style animated marketing metrics ticker" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2200&pause=700&color=FFBF00&center=true&vCenter=true&width=780&height=40&lines=%241.2M+SPEND+%E2%96%B8+6.1X+ROAS+%E2%96%B8+95%25+FASTER" />
+
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B1D33?style=for-the-badge&logo=vercel&logoColor=white)](https://marketingportfolio7.netlify.app?utm_source=github&utm_medium=clicks&utm_campaign=github)
@@ -29,7 +32,9 @@
 
 </div>
 
----
+<div align="center">
+<img width="100%" alt="Animated section divider for About Me" src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C2A8,100:FFBF00&height=60&section=header&text=TOFU%20%C2%B7%20ABOUT%20ME&fontSize=22&fontColor=0B1D33&fontAlignY=65&animation=fadeIn" />
+</div>
 
 🔝 TOFU · About Me
 
@@ -47,7 +52,9 @@ portfolio  : mohamedismail784.netlify.app
 >
 > Right now, I'm even running my own job search through a self-hosted **n8n** pipeline — scroll to Projects to see it work. 👇
 
----
+<div align="center">
+<img width="100%" alt="Animated section divider for Tools and Stack" src="https://capsule-render.vercel.app/api?type=transparent&color=0:0B1D33,100:00C2A8&height=60&section=header&text=MOFU%20%C2%B7%20TOOLS%20%26%20STACK&fontSize=22&fontColor=FFBF00&fontAlignY=65&animation=fadeIn" />
+</div>
 
 🎯 MOFU · Tools & Stack
 
@@ -81,9 +88,15 @@ portfolio  : mohamedismail784.netlify.app
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+<div align="center">
+<img width="100%" alt="Animated section divider for Projects and Proof of Work" src="https://capsule-render.vercel.app/api?type=transparent&color=0:FFBF00,100:0B1D33&height=60&section=header&text=BOFU%20%C2%B7%20PROJECTS%20%26%20PROOF%20OF%20WORK&fontSize=20&fontColor=00C2A8&fontAlignY=65&animation=fadeIn" />
+</div>
 
 💰 BOFU · Projects & Proof of Work
+
+<div align="center">
+<img alt="Pixel-style terminal loading animation before projects" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1800&pause=500&color=0B1D33&center=true&vCenter=true&multiline=true&width=780&height=70&lines=%3E+DEPLOYING+CAMPAIGNS...;%3E+OPTIMIZING+ROAS...;%3E+LOADING+PROJECTS_" />
+</div>
 
 🤖 [AI-Powered Job Application Automation](https://github.com/ismailgito/Job_hunting_workflow_automation_N8N)
 > `n8n` `Gemini AI` `Apify` `Telegram Bot API` `Google Sheets` `Google Drive`
@@ -152,7 +165,10 @@ Mobile-first CRO landing page with 100% campaign-to-lead attribution.
 
 </details>
 
----
+<div align="center">
+<img width="100%" alt="Animated section divider for Certifications" src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C2A8,100:FFBF00&height=60&section=header&text=RETENTION%20%C2%B7%20CERTIFICATIONS&fontSize=22&fontColor=0B1D33&fontAlignY=65&animation=fadeIn" />
+</div>
+
 🔁 Retention · Certifications
 
 > 🆕 **Just certified:** *n8n — Essentials: Your First Workflows* (Jul 25, 2026), awarded by n8n's Education Team — put straight to work in the automation project above.
@@ -171,7 +187,9 @@ Mobile-first CRO landing page with 100% campaign-to-lead attribution.
 
 </div>
 
----
+<div align="center">
+<img width="100%" alt="Animated section divider for Let's Connect" src="https://capsule-render.vercel.app/api?type=transparent&color=0:0B1D33,100:00C2A8&height=60&section=header&text=LET'S%20CONNECT&fontSize=22&fontColor=FFBF00&fontAlignY=65&animation=fadeIn" />
+</div>
 
 Let's Connect
 
@@ -183,6 +201,10 @@ Let's Connect
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismailgito)
 
 <sub>💡 <i>Open to Performance Marketing, Growth, and Marketing Operations roles — Immediate availability</i></sub>
+
+<br/>
+
+<img alt="Pixel-style closing tagline animation" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=00C2A8&center=true&vCenter=true&width=780&height=40&lines=THANKS+FOR+SCROLLING+%E2%9C%A8" />
 
 <img width="100%" alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBF00,100:0B1D33&height=90&section=footer" />
 
