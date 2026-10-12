@@ -131,6 +131,28 @@ fun_fact: "Cut manual reporting time from 8 hours → 5 minutes 🤯"
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 <a href="https://github.com/ismailgito/Meta-ads-scraper-automation">Meta Ads Competitor Analysis Automation</a>
+`n8n` `Apify` `Gemini 2.5 Flash` `Google Sheets` `Telegram`
+
+- 🔍 Scrapes Meta Ads Library results and filters for ads active **30+ days** as a creative-research signal
+- 🤖 Classifies hooks, visual formats, copy angles, and CTAs, then logs structured findings to Google Sheets
+- 📲 Sends a Telegram summary after each workflow run
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 <a href="https://github.com/ismailgito/SEO-Backlinks-Tracker">SEO Backlinks Tracker</a> &nbsp; <a href="https://seo-backlinks-tracker.vercel.app"><img src="https://img.shields.io/badge/🔴_LIVE-Visit_App-FF4444?style=flat-square"/></a>
+`Next.js 14` `React 18` `Off-Page SEO` `Outreach Tracking`
+
+- 📚 Search and filter a curated catalog of **194 directory records**
+- 📝 Track outreach status, notes, and live backlink URLs across projects
+- 📈 Review campaign activity and export catalog data as CSV
+
+</td>
+</tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
