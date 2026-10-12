@@ -119,35 +119,7 @@ fun_fact: "Cut manual reporting time from 8 hours → 5 minutes 🤯"
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35"> Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
 
-### 📊 Marketing Attribution Dashboard
-`GA4` `Multi-Touch Attribution` `UTM` `Data Viz`
-
-<img src="https://img.shields.io/badge/Impact-$2,700_Reallocation_Opportunity-00C853?style=flat-square"/>
-
-- 💰 Consolidated **$1.2M+** ad spend across **5 channels** into a unified attribution model
-- 🥇 Identified **SEO as the highest-ROAS channel at 6.1x**
-- 🔍 Uncovered **$1,240 in wasted Meta spend**
-- ⏱️ Automated PDF reporting: **8 hours → 5 minutes**
-- 🧭 Modelled **first-click, last-click & linear** attribution for data-driven budgets
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 CRO Landing Page (GTM + GA4)
-`Google Tag Manager` `GA4` `Lighthouse` `Core Web Vitals`
-
-<img src="https://img.shields.io/badge/Impact-100%25_Campaign--to--Lead_Attribution-764BA2?style=flat-square"/>
-
-- 📱 Built a **mobile-first D2C landing page** with conversion-focused UX
-- 🎯 Achieved **100% campaign-to-lead attribution** via GTM event tracking
-- ⚡ Optimised load speed by **40%**, cut LCP by **~1.6s** → passed Core Web Vitals
-- 🔦 Validated SEO + performance benchmarks with **Lighthouse**
-
-</td>
-</tr>
 <tr>
 <td colspan="2" valign="top">
 
