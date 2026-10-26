@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Mohamed%20Ismail&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Performance%20Marketing%20%7C%20Analytics%20%7C%20CRO&descSize=20&descAlignY=58" width="100%"/>
 
 <!-- ═══════════════════════ ANIMATED TYPING INTRO ═══════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=764BA2&center=true&vCenter=true&width=650&lines=Performance+Marketing+Professional+%F0%9F%9A%80;Analysed+%241.2M%2B+in+Multi-Channel+Ad+Spend+%F0%9F%93%8A;6.1x+ROAS+Channel+Identification+%F0%9F%8E%AF;GA4+%E2%80%A2+Meta+Ads+%E2%80%A2+CRO+%E2%80%A2+UTM+Tracking;5x+Certified+Digital+Marketer+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=764BA2&center=true&vCenter=true&width=650&lines=Performance+Marketing+Professional+%F0%9F%9A%80;Built+n8n+Meta+Ads+Competitor+Scraper+%F0%9F%A4%96;Automating+Competitor+Creative+Research+%F0%9F%8E%AF;GA4+%E2%80%A2+Meta+Ads+%E2%80%A2+CRO+%E2%80%A2+UTM+Tracking;5x+Certified+Digital+Marketer+%F0%9F%8F%86" alt="Typing SVG" />
 
 <br/>
 
@@ -24,7 +24,7 @@
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> About Me
 
-> **Performance marketing professional** who turns ad spend into insight — and insight into growth.
+> **Performance marketer who automates competitor creative research** — turning Meta Ads Library data into hooks, angles, and CTAs worth testing.
 
 ```yaml
 name: Mohamed Ismail
@@ -39,9 +39,9 @@ fun_fact: "Cut manual reporting time from 8 hours → 5 minutes 🤯"
 
 <div align="center">
 
-| 💰 **$1.2M+** | 🎯 **6.1x** | 📊 **50+** | ⚡ **40%** | 🏆 **5x** |
+| 🤖 **n8n** | 🔍 **30+ Days** | 📊 **50+** | ⚡ **40%** | 🏆 **5x** |
 |:---:|:---:|:---:|:---:|:---:|
-| Ad Spend Analysed | Highest ROAS Identified | Campaigns UTM-Standardised | Page Load Speed Boost | Certified Marketer |
+| Meta Ads Competitor Scraper Built | Active-Ad Filter for Winning Creatives | Campaigns UTM-Standardised | Page Load Speed Boost | Certified Marketer |
 
 </div>
 
@@ -73,6 +73,17 @@ fun_fact: "Cut manual reporting time from 8 hours → 5 minutes 🤯"
 ![UTM](https://img.shields.io/badge/UTM_Tracking-2E7D32?style=for-the-badge)
 ![Attribution](https://img.shields.io/badge/Multi--Touch_Attribution-8E24AA?style=for-the-badge)
 ![Dashboards](https://img.shields.io/badge/Performance_Dashboards-D81B60?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI Skills</b></summary>
+<br/>
+
+![n8n](https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-764BA2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </details>
 
