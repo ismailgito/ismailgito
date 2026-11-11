@@ -132,17 +132,6 @@ fun_fact: "Cut manual reporting time from 8 hours → 5 minutes 🤯"
 <table>
 
 <tr>
-<td colspan="2" valign="top">
-
-### 🤖 AI Content Efficiency Tool &nbsp; <a href="https://claude-token-optimization.vercel.app"><img src="https://img.shields.io/badge/🔴_LIVE-Visit_App-FF4444?style=flat-square"/></a>
-`LLM API` `Marketing Automation` `Token Optimisation`
-
-- 🌐 Deployed a web app that converts raw marketing files into **LLM-optimised format** — cutting AI content production costs for marketing teams
-- 👀 Lets marketers **preview token usage before API submission**, directly lowering per-campaign AI spend
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📊 <a href="https://github.com/ismailgito/Meta-ads-scraper-automation">Meta Ads Competitor Analysis Automation</a>
