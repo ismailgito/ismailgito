@@ -134,6 +134,22 @@ fun_fact: "Cut manual reporting time from 8 hours → 5 minutes 🤯"
 <tr>
 <td width="50%" valign="top">
 
+### 🎙️ <a href="https://github.com/ismailgito/Marketing-AI-Agent">Marketing AI Agent</a>
+`LiveKit Agents` `Gemini Live` `MCP` `Python`
+
+- 🗣️ Voice-first marketing analyst: speech-to-speech loop on Gemini Live via LiveKit Inference
+- 🧮 Fetches data via MCP, computes in deterministic local skills, so the LLM never does spend math
+- 🚧 Early stage: voice loop, local skills, and docs connector work; Meta/Google Ads connectors are planned
+
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="assets/claude.svg" alt="Claude" width="360"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 📊 <a href="https://github.com/ismailgito/Meta-ads-scraper-automation">Meta Ads Competitor Analysis Automation</a>
 `n8n` `Apify` `Gemini 2.5 Flash` `Google Sheets` `Telegram`
 
@@ -159,6 +175,20 @@ fun_fact: "Cut manual reporting time from 8 hours → 5 minutes 🤯"
 
 <!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32"> Work Experience
+
+### 💼 Digital Marketing Intern — IntoAEC (B2B Software)
+<img src="https://img.shields.io/badge/Jul_2026_–_Oct_2026-Remote-blueviolet?style=flat-square"/> <a href="https://intoaec-internship.vercel.app"><img src="https://img.shields.io/badge/📄_Internship_Report-View-FF4444?style=flat-square"/></a>
+
+| 🎯 What I did | 📈 Result |
+|---|---|
+| Helped run a Meta Ads lead-gen campaign (Instant Forms, warm vs cold ad sets): set-up, monitoring, CPL tracking, reporting | **11 leads** by 22 Oct 2026 · warm CPL **₹842** vs **₹1,895** cold |
+| Analysed results by placement and recommended manual placements + a shorter Instant Form (test running) | Instagram CPL **~3x lower** than Facebook · only **~4%** of link clicks became leads *(sample under 20 leads, so directional)* |
+| Set up tracking: GA4 internal-traffic filter, separate Demo Booking key events, separate GTM container for maec.ai | Clean, separated conversion data |
+| Built clone demo-booking pages | **90+** PageSpeed score |
+| SEO: built backlinks and removed spammy ones via Search Console | Ubersuggest Domain Authority **5 → 14** |
+| Grew organic reach for maec.ai | **~3k active users**, **3.8k sessions** (GA4, 1 Jul – 31 Oct 2026) |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
 ### 💼 Sales & Marketing Intern — Ifelse Techsmart Solutions Pvt Ltd
 <img src="https://img.shields.io/badge/Aug_2023_–_Nov_2023-Chennai-blueviolet?style=flat-square"/>
