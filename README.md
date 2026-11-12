@@ -10,8 +10,8 @@
 
 <!-- ═══════════════════════ CONTACT BADGES ═══════════════════════ -->
 <a href="mailto:dadobeb553@gmail.com"><img src="https://img.shields.io/badge/Email-dadobeb553%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-764BA2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-ismail-2700a2257/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://marketingportfolio7.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-764BA2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/📍_Chennai,_TN-India-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Open_to_Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
